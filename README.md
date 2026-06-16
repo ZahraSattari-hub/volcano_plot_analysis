@@ -15,3 +15,6 @@ Workflow: <br/>
 8.	Selected proteins of biological interest were annotated and labelled directly on the figure.
    
 The workflow demonstrates a standard differential abundance analysis approach commonly used in proteomics studies and provides a reproducible framework for identifying proteins associated with experimental treatments.
+
+[Plot.tiff](https://github.com/user-attachments/files/28990844/Plot.tiff)
+
