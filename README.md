@@ -16,5 +16,5 @@ Workflow: <br/>
    
 The workflow demonstrates a standard differential abundance analysis approach commonly used in proteomics studies and provides a reproducible framework for identifying proteins associated with experimental treatments.
 
-![Alt image](https://github.com/ZahraSattari-hub/volcano_plot_analysis/blob/cc3e7bea09edc5a4c05b159257ebbc73977db036/Rplot.jpeg)
+![Alt image](https://github.com/ZahraSattari-hub/volcano_plot_analysis/blob/ffee63df7639a6831484bb92523bede317ce9279/Plot.jpg)
 
